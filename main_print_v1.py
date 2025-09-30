@@ -1,7 +1,7 @@
 # 변수 선언
-name = "Alice"
-age = 25
-score = 95.5
+name = "JINU"
+age = 20
+score = 100.0
 
 # 1. 기본 출력
 print("Hello, Python!")
